@@ -11,12 +11,11 @@ added more changes
 updated changes
 
 
+-------------
 
 
-commit issue
-
-
-
+<<<<<<< .minecommit issue
+=======>>>>>>> .theirs
 
 
 
